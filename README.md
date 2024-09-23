@@ -21,8 +21,7 @@ Welcome to my portfolio website! This project is built with HTML and basic CSS, 
 To view the website, clone this repository and open the `index.html` file in your web browser:
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://rameshkumar7279.github.io/portfolio-website
 open index.html  # or double-click the file
 ```
 
